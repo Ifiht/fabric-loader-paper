@@ -1,4 +1,4 @@
-fabric-loader
+fabric-loader-paper
 ===========
 
 The loader for mods under Fabric. It provides mod loading facilities and useful abstractions for other mods to use.
